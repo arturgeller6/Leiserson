@@ -1,2 +1,2 @@
 # Leiserson
-Leiserson Algorithms (official implkementation)
+Leiserson Algorithms (official implementation)
